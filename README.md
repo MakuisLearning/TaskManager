@@ -43,7 +43,7 @@ State is persisted in the browser's `localStorage` under the key `tasks_state`.
 ## 📦 Installation & Usage
 
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/your-username/task-manager.git](https://github.com/MakuisLearning/TaskManager.git
 cd task-manager
 npm install
 npm run dev # or npm start
